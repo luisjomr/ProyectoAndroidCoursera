@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Projekt J.O.L.M.A.</string>
+    <string name="app_title">Herzlich willkommen!</string>
+    <string name="app_paragraph">Dies ist mein erstes Programm auf Android</string>
+    <string name="text_button">Eingeben</string>
+</resources>

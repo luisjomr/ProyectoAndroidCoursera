@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Proyecto J.O.L.M.A.</string>
+    <string name="app_title">¡Bienvenido!</string>
+    <string name="app_paragraph">Este es mi primer programa en Android</string>
+    <string name="text_button">Entrar</string>
+</resources>
