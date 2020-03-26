@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Project-Jolma.iml" filepath="$PROJECT_DIR$/Project-Jolma.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Proyecto Coursera.iml" filepath="$PROJECT_DIR$/Proyecto Coursera.iml" group="Proyecto Coursera" />
+      <module fileurl="file://$PROJECT_DIR$/app/ProyectoAndroidCoursera-app.iml" filepath="$PROJECT_DIR$/app/ProyectoAndroidCoursera-app.iml" group="Proyecto Coursera/app" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
